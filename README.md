@@ -1,5 +1,5 @@
 # ChangeThemeW10
-Python script to change light/dark theme on windows 10 at its execution.
+Python script to change light/dark theme on windows 10 at its execution. The way this script works its changing some values directly on the windows registry. for further questions or feedback contact me on LinkedIn or email me at: andresrojaso@outlook.com
 
 # 💫 About Me:
 I'm currently working on web development using Python and flask framework<br>I'm really looking forward to collaborating with other developers and learn from them.<br>I really enjoy programming, I think its another way to make art
