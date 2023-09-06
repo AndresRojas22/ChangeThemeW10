@@ -22,3 +22,6 @@ I'm currently working on web development using Python and flask framework<br>I'm
 [![](https://visitcount.itsvg.in/api?id=AndresRojas22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+Disclaimer: This Python program is shared for educational and informational purposes only. I do not assume any responsibility for its use, and users are encouraged to exercise caution and ensure compliance with applicable laws and regulations when utilizing this code.
